@@ -20,3 +20,6 @@ sudo apt install jenkins -y
 
 # install git
 sudo apt install git -y
+
+# check jenkins status
+systemctl status jenkins
